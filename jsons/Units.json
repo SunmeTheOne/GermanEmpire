@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Panzer",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
+		"uniqueTo": "German Empire",
+		"replaces": "Tank",
+		"movement": 4,
+		"strength": 360,
+		"rangedStrength": 180,
+		"range": 3,
+		"cost": 385,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"requiredResource": "Oil",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
