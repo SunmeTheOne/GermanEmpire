@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Brandenburger Tor",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "German Empire",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
