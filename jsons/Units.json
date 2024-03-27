@@ -3,7 +3,7 @@
 		"name": "Panzer",
 		"unitType": "Ranged",
 		"uniqueTo": "German Empire",
-		"replaces": "Tank",
+		"replaces": "",
 		"movement": 4,
 		"strength": 360,
 		"rangedStrength": 180,
